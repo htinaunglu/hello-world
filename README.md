@@ -1,2 +1,3 @@
 # hello-world
-Just do as guide from GitHub
+
+This is a repo of my unfinished projects while handling error.
